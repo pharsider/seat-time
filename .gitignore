@@ -3,5 +3,5 @@ frontend/.next/
 
 backend/bin/
 backend/obj/
-
+CLAUDE.md
 .DS_Store
